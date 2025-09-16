@@ -1,4 +1,4 @@
-# Evil-Domains — by DUDIX CTI
+# Evil-Domains by DUDIX CTI
 
 <p align="center">
 <img src="./Img/evil_domains.webp" width="300"/>
