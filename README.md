@@ -6,7 +6,7 @@
   
 ![Powered by DudixCTI](https://img.shields.io/badge/powered%20by-DudixCTI-0052cc?style=for-the-badge&logo=apachekafka)
 ![Made with ❤️ by Dudix](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Dudix-darkred?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/<your-handle>/evil-domains?label=Cyber%20Threat%20Intel%20%E2%80%93%20Last%20Update&color=informational&style=for-the-badge&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/CyberFlood/evil-domains?label=Cyber%20Threat%20Intel%20%E2%80%93%20Last%20Update&color=informational&style=for-the-badge&logo=github)
 
 </p>
 
