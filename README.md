@@ -12,10 +12,15 @@
 
 ---
 
+Evil-Domains par DUDIX CTI est un flux public et mis à jour de domaines identifiés comme malveillants, conçu pour le threat-hunting, le blocage et l’ingestion SIEM. Usage non commercial uniquement.
 
-**Objectif du dépot** : fournir un flux public et défensif de **domaines malveillants** collectés par DUDIX CTI (exports OpenCTI, STIX, CSV).
-**Usage attendu** : threat hunting, blocage, corrélation, recherche. 
-**Usage commercial interdit** sans accord écrit (voir licence).
+---
+
+## Objectif
+
+- Fournir un flux public et défensif de **domaines malveillants** collectés par DUDIX CTI (exports OpenCTI, STIX, CSV).
+- Usage attendu: threat hunting, blocage, corrélation, recherche. 
+- Usage commercial interdit.
 
 
 ---
