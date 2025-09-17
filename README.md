@@ -13,8 +13,9 @@
 ---
 
 
-**But** : fournir un flux public et défensif de **domaines malveillants** collectés par DUDIX CTI (exports OpenCTI, STIX, CSV).
-**Usage attendu** : threat hunting, blocage, corrélation, recherche. **Usage commercial interdit** sans accord écrit (voir licence).
+**Objectif du dépot** : fournir un flux public et défensif de **domaines malveillants** collectés par DUDIX CTI (exports OpenCTI, STIX, CSV).
+**Usage attendu** : threat hunting, blocage, corrélation, recherche. 
+**Usage commercial interdit** sans accord écrit (voir licence).
 
 
 ---
