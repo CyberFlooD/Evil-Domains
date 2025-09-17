@@ -28,7 +28,9 @@ Evil-Domains par DUDIX CTI est un flux public et mis à jour de domaines identif
 
 ## Contenu du dépôt
 
-- `evil_domains.csv` — CSV simple : `type,domaine,decrtiption,opencti_score`
+- `evil_domains.csv` — CSV simple : `type,domaine,decrtiption,opencti_score`.
+- `evil_domains.txt` — un domaine par ligne (raw, prêt à curl/wget).
+- `evil_domains.stix.json` — STIX2 bundle pour ingestion (OpenCTI / MISP / SIEM).
 
 ## Usage
 - Usage défensif uniquement (threat hunting, blocage, corrélation).
